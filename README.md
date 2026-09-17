@@ -148,8 +148,11 @@ Comparison_of_Similarity_Measures_for_trajectory_clustering.ipynb
 ## 🎓 Academic Context
 
 **Project:** Comparison of Similarity Measures for Trajectory Clustering
+
 **Program:** Master Professional in Data Science for Business
+
 **Institution:** Institut Supérieur de Gestion de Tunis (ISGT)
+
 **Academic Year:** 2023–2024
 
 
